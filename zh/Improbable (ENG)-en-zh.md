@@ -1,6 +1,6 @@
 \[Header]什么是SpatialOS？
 
-艾宾·柏林（Ich bin ein Berliner）！
+此段已被修改。
 
 GDK for Unreal如果您使用的是GDK for Unreal，则此页面不适用于您。有关[什么是SpatialOS，](https://documentation.improbable.io/gdk-for-unreal/docs/what-is-spatialos)请参见GDK文档。
 
