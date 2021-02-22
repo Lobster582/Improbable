@@ -1,6 +1,6 @@
 [Header] What is SpatialOS?
 
-Ich bin ein Berliner!
+This segment has been modified.
 
 GDK for Unreal
 If you're using the GDK for Unreal, this page does not apply to you. See the GDK documentation on [what SpatialOS is](https://documentation.improbable.io/gdk-for-unreal/docs/what-is-spatialos).
