@@ -1,5 +1,7 @@
 \[Header] 什么是SpatialOS？
 
+这是一个新细分！
+
 GDK for Unreal如果您使用的是GDK for Unreal，则此页面不适用于您。有关[什么是SpatialOS，](https://documentation.improbable.io/gdk-for-unreal/docs/what-is-spatialos)请参见GDK文档。
 
 SpatialOS是一种平台即服务，可在云中运行和管理在线游戏。
